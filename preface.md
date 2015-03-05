@@ -20,7 +20,7 @@
   1. Arrow (or Morphism)
 1. Category의 조건
   1. Id morphism 이 있어야 한다.
-  1. 함성한 morphism은 associative하다
+  1. 합성한 morphism은 associative하다
   1. morphism은 transitive해야 한다.
 
 
